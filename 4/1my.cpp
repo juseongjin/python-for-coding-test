@@ -13,6 +13,7 @@ int main(){
     string key;
     char mode[4] = {'L','R','U','D'};
     cin >> n;
+    //문자열 처리
     cin.ignore();
     getline(cin, key);
 
